@@ -1,4 +1,4 @@
-# Null's cpntent.json suggestions
+# Null's content.json suggestions
 
 ### Description
 Nulls Content JSON Suggestions is a VS Code extension that adds code editor autosuggestions for content.json files, making it easier to create mods for Null's Brawl.
