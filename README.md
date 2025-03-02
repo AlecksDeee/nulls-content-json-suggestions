@@ -11,8 +11,7 @@ Nulls Content JSON Suggestions is a VS Code extension that adds code editor auto
 
 ### Setup
 1. Install the extension in VS Code
-2. Create a `data` folder in the extension directory
-3. Place your CSV files from folders `csv_logic`, `csv_client` and `localization` in the data folder (the extension will automatically read them)
+2. Enjoy!
 
 ### Usage
 Simply type `"` in your content.json file, and the extension will provide appropriate suggestions based on your current context in the JSON structure.
