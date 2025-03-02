@@ -15,3 +15,9 @@ Nulls Content JSON Suggestions is a VS Code extension that adds code editor auto
 
 ### Usage
 Simply type `"` in your content.json file, and the extension will provide appropriate suggestions based on your current context in the JSON structure.
+
+---
+#### Showcase 1
+![Showcase](https://raw.githubusercontent.com/AlecksDeee/nulls-content-json-suggestions/refs/heads/master/showcase.gif)
+#### Showcase 2
+![Showcase2](https://raw.githubusercontent.com/AlecksDeee/nulls-content-json-suggestions/refs/heads/master/showcase2.gif)
